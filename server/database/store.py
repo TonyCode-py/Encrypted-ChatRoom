@@ -1,6 +1,6 @@
 '''
 Store the user information to the database
-@auther: Tony Yang
+@auther: Tony Code
 
 '''
 import sqlite3
